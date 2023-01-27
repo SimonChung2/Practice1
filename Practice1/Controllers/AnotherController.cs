@@ -7,9 +7,7 @@ using System.Web.Http;
 
 namespace Practice1.Controllers
 {
-    public class PracticeController : ApiController
+    public class AnotherController : ApiController
     {
-           //I am pushing this code to github
-           //I am making a change to practice committing changes 
     }
 }
